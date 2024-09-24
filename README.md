@@ -1,9 +1,19 @@
-# React + Vite
+# crud-project-hs11 Proje Özellikleri
+<ul>
+  <li>Bu projemiz, basit bir CRUD (Create, Read, Update, Delete) uygulamasıdır. Kullanıcıların verileri ekleyip, görüntüleyip, güncelleyip ve silebildiği temel bir yapıyı içerir.
+  </li>
+</ul>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Projede Kullanılan Diller ve Araçlar
 
-Currently, two official plugins are available:
+<ul>
+  <li>Css</li>
+  <li>Visual Studio Code</li>
+  <li>Javascprit</li>
+   <li>React, Redux</li>
+     
+</ul>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# crud-project-hs11
+# crud-project-hs11 Proje Gifi
+![crud](https://github.com/user-attachments/assets/b57ed77a-2211-4da4-9d2c-44f1c1a27654)
+
